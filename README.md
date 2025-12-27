@@ -23,7 +23,7 @@ I enjoy building real-world projects and documenting them clearly for learning a
 ## 📁 Featured Projects
 🔹 [Line Following Robot](https://github.com/gobinda789/Line-following-Bot)  
 🔹 [Maze Solving Robot](https://github.com/gobinda789/Maze-solving-bot)  
-🔹 [Obstacle Avoiding Robot](hhttps://github.com/gobinda789/Obstacle-Avoiding-Robot-Arduino)  
+🔹 [Obstacle Avoiding Robot](https://github.com/gobinda789/Obstacle-Avoiding-Robot-Arduino)  
 🔹 [Smart Agriculture Bot](https://github.com/gobinda789/Smart-Agriculture-Bot)  
 
 ---
