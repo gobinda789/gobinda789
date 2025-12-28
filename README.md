@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 About Me
-I am a final-year ECE student with strong interest in **Embedded Systems, Robotics, and IoT**.  
+I am a final-year BEI student with strong interest in **Embedded Systems, Robotics, and IoT**.  
 I enjoy building real-world projects and documenting them clearly for learning and collaboration.
 
 ---
