@@ -37,7 +37,7 @@ I enjoy building real-world projects and documenting them clearly for learning a
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/gobinda789  
-- LinkedIn: (add your LinkedIn link here)
+- LinkedIn: www.linkedin.com/in/govinda-bhandari-4426142a1 
 
 ---
 
