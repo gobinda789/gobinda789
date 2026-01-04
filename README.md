@@ -14,7 +14,7 @@ I enjoy building real-world projects and documenting them clearly for learning a
 ## 🛠️ Technical Skills
 - **Embedded Systems:** Arduino, ESP32, Embedded C/C++
 - **Robotics:** Line Following, Maze Solving, Obstacle Avoidance
-- **IoT Concepts:** Sensors, Wi-Fi, Web Dashboards
+- **IoT Concepts:** Sensors, Wi-Fi
 - **Software & Tools:** Git, GitHub, Arduino IDE
 - **Web Basics:** HTML, CSS, JavaScript
 
