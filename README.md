@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gobinda789.github.io/" target="_blank">
+  <a href="https://gobinda789.github.io/portfolio-website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
@@ -93,10 +93,10 @@ I believe in **learning by building**, breaking systems, and improving step-by-s
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/govinda-bhandari-4426142a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:gobindabhandari789@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
