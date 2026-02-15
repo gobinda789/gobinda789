@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Govinda Bhandari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%7C+IoT+Enthusiast;ESP32+%26+Robotics+Projects;Web+%26+AI+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Python+%7C+Data+Science;Electronics+Engineering+Student;AI+%2B+Hardware+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,75 +18,52 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year **Electronics, Communication & Information Technology Engineering** student from **Nepal**, passionate about building **real-world systems** that combine hardware, software, and intelligent automation.
+I am a final-year **Electronics, Communication & Information Technology Engineering** student focused on building intelligent systems that combine **AI, data, and real-world hardware**.
 
-- 🔌 **Core Interest:** Embedded Systems, ESP32, Arduino, IoT & Robotics  
-- 🤖 **Projects:** Rescue Rover Robot, ESP32-CAM streaming, motor control systems  
-- 🌐 **Web:** HTML, CSS, JavaScript, React (project-oriented learning)  
-- 🧠 **AI Curious:** Computer Vision & Generative AI (beginner → practical focus)  
-- 🎓 **Education:** Bachelor’s in Electronics, Communication & IT Engineering  
+My primary interest lies in **Machine Learning and Data Science**, especially understanding models from the mathematical foundation to practical implementation using Python.
 
-I believe in **learning by building**, breaking systems, and improving step-by-step.
+I have experience developing embedded and robotics-based systems, and I am particularly interested in integrating AI with electronics to solve real-world engineering problems.
+
+I believe in learning deeply, building practical systems, and improving through iteration.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Core Skills
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,html,css,js,react,git,github,linux,aws" />
-  </a>
-</p>
+**Programming**
+- Python (Machine Learning, Data Analysis)
+- JavaScript & React (basic frontend development)
 
-**Hardware & Embedded**
-- Arduino, ESP32, ESP32-CAM  
-- Motor Drivers (L298N, BTS7960), Servo Motors  
-- Sensors, Buck Converters, Power Management  
+**Machine Learning & Data**
+- Supervised learning fundamentals
+- Model training & evaluation
+- Feature-based system design
 
-**Software & Tools**
-- Git & GitHub  
-- Basic AWS (S3, EC2 – labs & learning)  
-- REST concepts, UI design basics  
+**Electronics & Robotics**
+- Microcontrollers (ESP32, Arduino)
+- Sensor integration & motor control
+- Hardware-software system integration
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gobinda789&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobinda789&layout=compact&theme=tokyonight" height="180px" />
-</p>
+## 📂 Selected Work
 
-### 🔥 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gobinda789&theme=react-dark" width="100%" />
-</p>
+### 🤖 AI-Based Smart Power Quality Analyzer
+- Designed a system to analyze voltage-current waveform data
+- Extracted RMS, frequency, harmonic features
+- Applied ML-based load classification
 
----
-
-## 📂 Featured Projects
-
-### 🤖 Rescue Rover Robot
-- 4-wheel rescue bot using **ESP32 + ESP32-CAM**
-- Live video streaming, motor control, and servo-based camera movement
-- Designed a responsive **web control interface**
-
-### 📡 ESP32-CAM FPV System
-- Integrated camera streaming into a custom ESP32 web server
-- Focused on real-time control and low-latency video
-
-### 🌐 Portfolio Website
-- Built with **React + Vite**
-- Deployed using **GitHub Pages**
-- Focus on clean UI and responsive design
+### 🚑 Rescue Rover Robot
+- Built a 4-wheel robotic system with ESP32 & camera integration
+- Developed custom web-based control interface
 
 ---
 
-## 🌱 Currently Learning
-- Advanced ESP32 networking  
-- Computer Vision basics (YOLO concepts)  
-- Clean Git workflows & project structuring  
-- Practical Generative AI usage  
+## 🌱 Current Focus
+- Strengthening mathematical foundations of ML
+- Applied AI systems for engineering problems
+- Clean project architecture & version control practices
 
 ---
 
@@ -101,4 +78,4 @@ I believe in **learning by building**, breaking systems, and improving step-by-s
   </a>
 </p>
 
-<p align="right"><i>Last updated: Jan 2026</i></p>
+<p align="right"><i>Last updated: Feb 2026</i></p>
