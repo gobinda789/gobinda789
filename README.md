@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year **Electronics, Communication & Information Technology Engineering** student focused on building intelligent systems that combine **AI, data, and real-world hardware**.
+I am an  **Electronics, Communication & Information Technology Engineer**  focused on building intelligent systems that combine **AI, data, and real-world hardware**.
 
 My primary interest lies in **Machine Learning and Data Science**, especially understanding models from the mathematical foundation to practical implementation using Python.
 
